@@ -1,0 +1,22 @@
+{
+  "name": "500-asd",
+  "version": "1.0.0",
+  "description": "JOIN OUR DISCORD SERVER https://discord.gg/tKkHQJCzgd",
+  "main": "index.js",
+  "scripts": {
+    "test": "*help"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrathameshShahani/bot.git"
+  },
+  "keywords": [
+    "*"
+  ],
+  "author": "pmesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrathameshShahani/bot/issues"
+  },
+  "homepage": "https://github.com/PrathameshShahani/bot#readme"
+}
